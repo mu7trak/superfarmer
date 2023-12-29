@@ -1,0 +1,17 @@
+# Super farmer
+
+
+## Setup
+nano ~/.bashrc
+/mnt/c/Users/mateusz/PycharmProjects/pythonProject/superfarmer
+
+python3 -m venv venv_superfarmer
+
+## Activate venv
+cd /mnt/c/Users/mateusz/PycharmProjects/pythonProject
+source venv_superfarmer/bin/activate
+
+## Go into repo 
+cd /mnt/c/Users/mateusz/PycharmProjects/pythonProject/superfarmer
+
+
